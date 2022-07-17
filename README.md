@@ -1,1 +1,2 @@
 # MO-DCN
+It contains a Tensorflow implementation of Multiobjective Guided Divide-and-Conquer Network for Hyperspectral Pansharpening. If you find this code useful in your research, please consider citing the following paper: X. Wu, J. Feng, R. Shang, X. Zhang and L. Jiao, "Multiobjective Guided Divide-and-Conquer Network for Hyperspectral Pansharpening," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-17, 2022, Art no. 5525317, doi: 10.1109/TGRS.2022.3159999.
